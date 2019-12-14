@@ -195,17 +195,17 @@
                             </p>
                             <p>
                                 <h3>Competencias</h3>
-                            </br>
+                            <br>
                                 <p>Lenguaje C : Básico </p>
                                 <p>Html: Amateur </p> 
                                 <h3>Introducción a la Ingenieria en Software </h3>
-                            </br>
+                            <br>
                                 <p>Docente : Ing. Miguel Angel Botto Tobar</p>
-                                <h1>Material de clases</h1></br>
-                                </br>
-                                    <h1>Unidad#1</h1></br>
+                                <h1>Material de clases</h1><br>
+                                <br>
+                                    <h1>Unidad#1</h1><br>
                                      <p>
-                                        <h2>Fundamentos a la Ingeniería de Software </h2></br>
+                                        <h2>Fundamentos a la Ingeniería de Software </h2><br>
                                         <p> Definición de IS
                                             Fritz Bauer, 1969:<br>
                                             Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema. 
