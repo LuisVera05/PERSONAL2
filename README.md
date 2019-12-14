@@ -144,10 +144,10 @@
                                         <img src="/luis graduacion/Crubik.png" alt="/luis graduacion/Crubik.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="2">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/Proceso-desarrollo de sitio web personal.png" alt="">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="3" class="noMarginRight">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/Proceso-desarrollo de sitio web personal.png" alt="">
                                     </li>
                                 </ol>
 
@@ -162,11 +162,11 @@
                                     </div>
 
                                     <div class="item">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
+                                        <img src="/luis graduacion/Proceso-desarrollo de sitio web personal.png" alt="">
                                     </div>
 
                                     <div class="item">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
+                                        <img src="/luis graduacion/Proceso-desarrollo de sitio web personal.png" alt="">
                                     </div>
                                 </div>
 
