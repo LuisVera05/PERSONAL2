@@ -114,7 +114,7 @@
     <!--Header End-->
 		      <!--Breadcrumb Start-->
 			  
-        <section class="breadcrumbSec" style="background-image:url('/Users/usuario/Desktop/luis graduacion/2.png');">
+        <section class="breadcrumbSec" style="background-image:url('/luis graduacion/2.png');">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center breadsec">
