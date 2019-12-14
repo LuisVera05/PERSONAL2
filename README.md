@@ -370,10 +370,10 @@
 
                                      </p>
                                 <br>
-                                    <h3>Unidad#2</h3>
+                                    <h1>Unidad#2</h1>
                                     <p>
                                         <br>
-                                        <h1>El proceso de SW</h1></br>
+                                        <h1>El proceso de SW</h1><br>
                                         Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.<br>
                                         - Muchos de los procesos de software son diferentes, pero todos implican:<br>
                                         - Especificación;<br>
@@ -417,9 +417,9 @@
                                          Un proceso software debe especificar:<br>
                                          -La <strong>secuencia de actividades</strong> a realizar por el equipo de desarrollo<br> 
                                          -Flujo de actividades<br>
-                                         -Los <trong>productos</trong> que deben crearse</br>
+                                         -Los <trong>productos</trong> que deben crearse<br>
                                          -Resultados del trabajo (modelos, documentos, datos informes...)<br> 
-                                         -Qué y cuándo</br>
+                                         -Qué y cuándo<br>
                                          -La <strong>asignación de tareas</strong> a cada miembro del equipo y al equipo como un todo<br>
                                          -Los <strong>criterios</strong> para controlar el proceso<br>
                                          -Se establece el control de gestión de los proyectos software<br>
@@ -526,9 +526,9 @@
 	                                        Las modificaciones debidas a los cambios de requisitos del usuario para mejorar el sistem<br>
 	                                        <strong>Mantenimiento preventivo</strong><br>
 	                                        Mejora de las características internas del producto para hacer más mantenible<br>
-                                        </br>
+                                        <br>
                                         <h2>Modelos de procesos de software:</h2><br>
-                                        <strong>El modelo de cascada:</strong></br>
+                                        <strong>El modelo de cascada:</strong><br>
                                         <img src="/luis graduacion/Grafica5.png" width="600" heigth="600"alt="/luis graduacion/Grafica5.png"><br>
                                         	Las fases están identificadas por separado:<br>
 	                                       - El análisis y definición de requerimientos<br>
@@ -552,11 +552,11 @@
                                         <strong>Problemas:</strong><br>
                                         	- El proceso no es visible.<br>
                                         	- Los gerentes necesitan entregas regulares para medir el progreso. Si se desarrollan rápidamente los sistemas, no es rentable para producir documentos que reflejen todas las versiones del sistema.<br>
-                                        	- Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.</br>
+                                        	- Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.<br>
                                         	- A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. La incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.<br>                                           
-                                        <strong>Espiral:</strong></br>
+                                        <strong>Espiral:</strong><br>
                                         <img src="/luis graduacion/Grafica7.png" width="600" heigth="600"alt="/luis graduacion/Grafica7.png"><br>
-                                        <strong>Definición:</strong></br>
+                                        <strong>Definición:</strong><br>
                                         	- Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
 	                                        - Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
                                         	- Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
@@ -579,7 +579,7 @@
                                             - En la utilización de grandes sistemas a doblado la productividad.<br>
                                         <strong>Desarrollo rápido de aplicaciones (DRA):</strong><br>
                                         <img src="/luis graduacion/Grafica8.png" width="600" heigth="600"alt="/luis graduacion/Grafica8.png"><br>
-                                        <strong>Definición:</strong></br>
+                                        <strong>Definición:</strong><br>
                                         	Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.                     
                                         	- Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida de desarrollo extremadamente corto.<br>
                                         	- El modelo DRA es una adaptación a alta velocidad del ciclo de
