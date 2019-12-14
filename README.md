@@ -61,7 +61,7 @@
                     <nav class="mainnav">
                         <div class="logoMobile hidden-lg hidden-sm hidden-md">
                             <a href="index.html">
-                                <img alt="image/png" src="images/logo2.png">
+                                <img alt="image/png" src="images/logo3.png">
                             </a>
                         </div>
                         <div class="mobileMenu">
