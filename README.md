@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -53,7 +53,7 @@
 			                <div class="col-lg-3 col-sm-3">
                    <div class="logo">
                         <a href="index.html">
-                           <img src="/luis graduacion/Logo2.png" width="150" heigth="150" alt="/luis graduacion/Logo2.png">
+                           <img src="/luis graduacion/Logo2.png" width="150" heigth="150" alt="/luis graduacion/Logo.png">
                         </a>
                     </div>
                 </div>
@@ -141,32 +141,32 @@
                                         <img src="/luis graduacion/Grafica11.png" alt="">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="1">
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png" alt="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png">
+                                        <img src="/luis graduacion/Crubik.png" alt="/luis graduacion/Crubik.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="2">
-                                        <img src="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="3" class="noMarginRight">
-                                        <img src="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
                                     </li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica11.png" alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica11.png">
+                                        <img src="/luis graduacion/Grafica11.png" alt="/luis graduacion/Grafica11.png">
                                     </div>
 
                                     <div class="item">
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png" alt="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png">
+                                        <img src="/luis graduacion/Crubik.png" alt="/luis graduacion/Crubik.png">
                                     </div>
 
                                     <div class="item">
-                                        <img src="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </div>
 
                                     <div class="item">
-                                        <img src="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/Users/usuario/Desktop/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </div>
                                 </div>
 
@@ -324,7 +324,7 @@
                                                     <strong>Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).<br> 
                                                     <strong>Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).<br> 
                                                     Por ejemplo, dados los siguientes valores de un paquete de base de datos en dos proyectos, podemos calcular la integridad<br>
-                                                    <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica2.png" width="800" heigth="800"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica2.png"><br>
+                                                    <img src="/luis graduacion/Grafica2.png" width="800" heigth="800"alt="/luis graduacion/Grafica2.png"><br>
                                                    
                                                     <strong>Solución:</strong><br> 
                                                     -Integridad para el proyecto 1:<br> 
@@ -338,7 +338,7 @@
                                                     <strong>Métricas de costo:</strong> se centra en el costo total del sistema informático.<br> 
                                                     <strong> Métricas orientadas al tamaño:</strong> Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.<br> 
                                                     Si una organización de software mantiene registros sencillos, se puede crear una tabla de datos orientados al tamaño, como la que muestra la figura, que lista cada proyecto de desarrollo de software y las medidas correspondientes de cada proyecto<br> 
-                                                    <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica2.png" width="800" heigth="800"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica2.png"><br>
+                                                    <img src="/luis graduacion/Grafica2.png" width="800" heigth="800"alt="/luis graduacion/Grafica2.png"><br>
                                                    
                                                     Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:<br>
                                                     -Productividad = KLDC /Esfuerzo<br>
@@ -436,7 +436,7 @@
                                          - También proporciona procesos que pueden emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software dentro de una organización o de un proyecto</br>
                                          - Esta norma no fomenta o especifica ningún modelo concreto de
                                          ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades</br>
-                                         <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica4.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica4.png"><br>
+                                         <img src="/luis graduacion/Grafica4.png" width="600" heigth="600"alt="/luis graduacion/Grafica4.png"><br>
                                          <br>
                                          <h2>Ciclo de vida del SW</h2></br>
                                          Cuando un proceso implica la construcción de algún producto,
@@ -529,7 +529,7 @@
                                         </br>
                                         <h2>Modelos de procesos de software:</h2></br>
                                         <strong>El modelo de cascada:</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica5.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica5.png"><br>
+                                        <img src="/luis graduacion/Grafica5.png" width="600" heigth="600"alt="/luis graduacion/Grafica5.png"><br>
                                         	Las fases están identificadas por separado:</br>
 	                                       - El análisis y definición de requerimientos</br>
 	                                       - Diseño del sistema y software.</br>
@@ -543,7 +543,7 @@
 	                                        - Pocos sistemas tienen requisitos estables.</br>
                                             - El modelo de cascada se utiliza sobre todo para los grandes proyectos de ingeniería de sistemas en que un sistema se desarrolla en varios lugares.</br>               
                                         <strong>Desarrollo incremental:</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica6.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica6.png"><br>
+                                        <img src="/luis graduacion/Grafica6.png" width="600" heigth="600"alt="/luis graduacion/Grafica6.png"><br>
                                         <strong>Beneficios:</strong></br>
                                         	 - El costo de atender las necesidades cambiantes de los clientes se reduce.</br>
                                              - La cantidad de análisis y la documentación que tiene que ser hecho de nuevo es mucho menor que la que se requiere con el modelo de cascada.</br>
@@ -555,7 +555,7 @@
                                         	- Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.</br>
                                         	- A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. La incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.</br>                                           
                                         <strong>Espiral:</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica7.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica7.png"><br>
+                                        <img src="/luis graduacion/Grafica7.png" width="600" heigth="600"alt="/luis graduacion/Grafica7.png"><br>
                                         <strong>Definición:</strong></br>
                                         	- Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.</br>
 	                                        - Las actividades de este modelo son una espiral, cada bucle es una actividad.</br>
@@ -578,7 +578,7 @@
                                             - El modelo en espiral demanda una consideración directa de los riesgos técnicos en todas las etapas del proyecto y si se aplica adecuadamente debe reducir los riesgos antes de que se conviertan en problemas.</br>
                                             - En la utilización de grandes sistemas a doblado la productividad.</br>
                                         <strong>Desarrollo rápido de aplicaciones (DRA):</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica8.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica8.png"><br>
+                                        <img src="/luis graduacion/Grafica8.png" width="600" heigth="600"alt="/luis graduacion/Grafica8.png"><br>
                                         <strong>Definición:</strong></br>
                                         	Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.                     
                                         	- Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida de desarrollo extremadamente corto.<br>
@@ -602,7 +602,7 @@
                                                     - Si está en juego el alto rendimiento, y se va a conseguir el rendimiento convirtiendo interfaces en componentes de sistemas, el modelo DRA puede que no funcione.</br> 
                                             <strong>Mantenimiento preventivo</strong></br>
                                         <strong>Orientados a la realización:</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica9.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica9.png"><br>
+                                        <img src="/luis graduacion/Grafica9.png" width="600" heigth="600"alt="/luis graduacion/Grafica9.png"><br>
                                         <strong>Definición:</strong></br>
                                         	- Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.</br>
                                             - Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</br>
@@ -616,7 +616,7 @@
                                         	- Desarrollo e integración.</br>
                                         	- La reutilización es ahora el enfoque estándar para la construcciónde muchos tipos de sistemas de negocio.</br>
                                         <strong>Orientados a objetos:</strong></br>
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica10.png" width="600" heigth="600"alt="/Users/usuario/Desktop/finex2/luis graduacion/Grafica10.png"><br>
+                                        <img src="/luis graduacion/Grafica10.png" width="600" heigth="600"alt="/luis graduacion/Grafica10.png"><br>
                                         <strong>Definición</strong></br>
                                         	- El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.</br>
                                         	- Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre si de acuerdo a los requerimientos establecidos para el sistema de objetos.</br>
