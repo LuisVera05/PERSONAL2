@@ -369,7 +369,7 @@
 
 
                                      </p>
-                                /br>
+                                <br>
                                     <h3>Unidad#2</h3>
                                     <p>
                                         <br>
@@ -429,7 +429,7 @@
                                          <h2>Estándares relacionados con el proceso de SW</h2><br>
                                          <strong>Estándar ISO/IEC/IEEE 12207:2017</strong>
                                          El estándar ISO/IEC/IEEE 12207:2017 [ISO/IEC/IEEE, 2017] relativo
-                                         a los procesos del ciclo de vida del software</br>
+                                         a los procesos del ciclo de vida del software<br>
                                          - Se aplica a la adquisición de sistemas de software , productos y
                                          servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.<br>
                                          - Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software<br>
@@ -468,9 +468,9 @@
                                          Objetivos de cada etapa (i).
                                          - En cada una de las etapas de un modelo de ciclo de vida, se
                                          pueden establecer una serie de objetivos, tareas y actividades
-                                         que lo caracterizan.</br>
+                                         que lo caracterizan.<br>
                                          <strong>Expresión de necesidades</strong> esta etapa  tiene como objeivo el
-                                         armado de un documento en el cual se re ejan los requerimientos y funcionalidades que ofrecer  al usuario el sistema a implementar (qué, y no cómo, se va a implementar).</br>
+                                         armado de un documento en el cual se re ejan los requerimientos y funcionalidades que ofrecer  al usuario el sistema a implementar (qué, y no cómo, se va a implementar).<br>
                                          <strong>Especificaciones:</strong>formalizamos los requerimientos; el
                                          documento obtenido en la etapa anterior se tomar  como
                                          punto de partida para esta etapa.<br>
@@ -493,7 +493,7 @@
                                          - Los modelos de proceso de desarrollo de software incluyen los requisitos del sistema como entrada y un producto entregado como salida<br>
                                          <br>
                                          <h2>Razones para modelar un proceso de SW</h2><br>
-                                         <strong>Especificación:</strong>Formulación de los requisitos y restricciones del sistema.</br>
+                                         <strong>Especificación:</strong>Formulación de los requisitos y restricciones del sistema.<br>
                                          <strong>Diseño:</strong>Elaboración de un documento con el modelo del sistema<br>
                                          <strong>Fabricación:</strong>Construcción del sistema<br>
                                          <strong>Prueba:</strong>Comprobación de que el sistema cumple las especificaciones requeridas<br>
@@ -590,11 +590,11 @@
                                              <strong>Modelado de procesos:</strong> Los objetos de datos definidos en la fase de modelado de datos quedan transformados para lograr el flujo de información necesario para implementar una función de gestión. Las descripciones se crean para añadir, modificar, suprimir, o recuperar un objeto de datos.<br>
                                              <strong>Generación de aplicaciones:</strong> El DRA asume la utilización de técnicas de cuarta generación. En lugar de crear software con lenguajes de programación de tercera generación, el proceso DRA trabaja para volver a utilizar componentes de programas ya existentes (cuando es posible) o a crear componentes reutilizables (cuando sea necesario). En todos los casos se utilizan herramientas automáticas para facilitar.<br>
                                              <strong>Prueba y entrega:</strong>Como el proceso DRA enfatiza la reutilización, ya se han comprobado muchos de los componentes de los programas. Esto reduce tiempo de pruebas. Sin embargo, se deben probar todos los componentes nuevos y se deben ejercitar todas las interfaces a fondo.
-                                             <strong>Limitaciones:</strong></br> 
+                                             <strong>Limitaciones:</strong><br> 
                                             	- Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.<br>
                                             	- Si una aplicación de gestión puede modularse de forma que permita completarse cada una de las funciones principales en menos de tres meses, es el candidato del DRA.<br>                                    
                                             	- Cada una de las funciones puede ser afrontada por un equipo DRA diferente y ser integradas en un solo conjunto.<br>
-                                             <strong>Problemas:</strong></br>
+                                             <strong>Problemas:</strong><br>
                                                 	- Para proyectos grandes aunque por escalas, el DRA requiere recursos humanos suficientes como para crear el número correcto de equipos DRA.<br>
                                                     - DRA requiere clientes y desarrolladores comprometidos en las rápidas actividades necesarias para completar un sistema en un marco de tiempo abreviado. Si no hay compromiso, por ninguna de las partes constituyentes, los proyectos DRA fracasarán.<br>
                                                     - No todos los tipos de aplicaciones son apropiados para DRA.<br>
@@ -603,21 +603,21 @@
                                             <strong>Mantenimiento preventivo</strong><br>
                                         <strong>Orientados a la realización:</strong><br>
                                         <img src="/luis graduacion/Grafica9.png" width="600" heigth="600"alt="/luis graduacion/Grafica9.png"><br>
-                                        <strong>Definición:</strong></br>
+                                        <strong>Definición:</strong><br>
                                         	- Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.<br>
-                                            - Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</br>
+                                            - Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.<br>
                                             - El proceso tiende a estructurarse en dos subprocesos distintos y separados:
-                                            - <strong>El desarrollo para reutilización:</strong> construcción de elementos reutilizables dentro de un dominio concreto.</br>
-                                            - <strong>El desarrollo con reutilización:</strong> construcción de aplicaciones utilizando elementos reutilizables.</br>
+                                            - <strong>El desarrollo para reutilización:</strong> construcción de elementos reutilizables dentro de un dominio concreto.<br>
+                                            - <strong>El desarrollo con reutilización:</strong> construcción de aplicaciones utilizando elementos reutilizables.<br>
                                             <strong>Etapas del proceso</strong><br>
                                         	- Análisis de los componentes;<br>
                                         	- Requisitos de modificación;<br>
                                         	- Configuración del sistema con la reutilización;</br>
                                         	- Desarrollo e integración.<br>
-                                        	- La reutilización es ahora el enfoque estándar para la construcciónde muchos tipos de sistemas de negocio.</br>
+                                        	- La reutilización es ahora el enfoque estándar para la construcciónde muchos tipos de sistemas de negocio.<br>
                                         <strong>Orientados a objetos:</strong><br>
                                         <img src="/luis graduacion/Grafica10.png" width="600" heigth="600"alt="/luis graduacion/Grafica10.png"><br>
-                                        <strong>Definición</strong></br>
+                                        <strong>Definición</strong><br>
                                         	- El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
                                         	- Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre si de acuerdo a los requerimientos establecidos para el sistema de objetos.<br>
                                             <strong>Caracteristicas</strong><br>
@@ -625,7 +625,7 @@
                                             	- Trata el almacenamiento de objetos (persistencia de los objetos).<br>                                    
                                             	- Define un lenguaje para le definición y manipulación de objetos.<br>                                           
                                             	- Incluye mecanismos para optimizar el acceso (Indexación y Clustering), el control de la concurrencia, seguridad y gestión de usuarios, facilidad de consulta y recuperación ante fallos.<br>
-                                    </br>
+                                    <br>
                                     <h2>Procesos ágiles:</h2><br> 
                                     <strong>Definición</strong><br>
                                         Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
