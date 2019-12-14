@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -147,7 +147,7 @@
                                         <img src="/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="3" class="noMarginRight">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </li>
                                 </ol>
 
@@ -369,101 +369,101 @@
 
 
                                      </p>
-                                </br>
+                                /br>
                                     <h3>Unidad#2</h3>
                                     <p>
-                                        </br>
+                                        <br>
                                         <h1>El proceso de SW</h1></br>
-                                        Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.</br>
-                                        - Muchos de los procesos de software son diferentes, pero todos implican:</br>
-                                        - Especificación;</br>
-                                        - Diseño e implementación;</br>
-                                        - Validación;</br>
-                                        - Evolución.</br>
-                                    </br>
-                                         <h2>Caracteristicas del proceso de SW</h2></br>
-                                         Cualquier proceso tiene las siguientes características:</br>
-                                         - El proceso establece todas las actividades principales</br>
-                                         - El proceso utiliza recursos, está sujeto a una serie de restricciones</br>
-                                         y genera productos intermedios y finales</br>
-                                         - El proceso puede estar compuesto de subprocesos que se</br>
-                                         encadenan de alguna manera. Puede definirse como una jerarquía de procesos organizada de modo que cada subproceso tenga su propio modelo de proceso</br>
-                                         - Cada actividad del proceso tiene criterios de entrada y de salida, de modo que se conoce cuándo comienza y cuándo termina una actividad</br>
-                                         -Las actividades se organizan en secuencia de modo que resulta claro cuando una actividad se realiza en orden relativo a otras actividades</br>
-                                         - Todo proceso tiene un conjunto de principios orientadores que explican las metas de cada actividad</br>
-                                         - Las restricciones o controles pueden aplicarse a una actividad, recurso o producto</br>
-                                        </br>
-                                         <h2>Otras características del proceso de SW</h2></br>
-                                         <strong>Comprensión</strong></br>
-                                         - Está definido y es comprensible</br>
-                                         <strong>Visibilidad</strong></br> 
-                                         - Se visualizan los progresos externamente</br>
-                                         <strong>Soporte</strong></br>
-                                         - Está soportado por herramientas CASE</br>
-                                         <strong>Aceptacion</strong></br>
-                                         Es aceptable para todos los actores implicados</br>
-                                         <strong>Confianza</strong></br>
-                                         - Los errores del proceso se detectan antes de que se produzca errores en el producto</br>
-                                         <strong>Robustez</strong></br>
-                                         Se puede continuar a pesar de problemas inesperados</br>
-                                         <strong>Capacidad de mantenimiento</strong></br>
-                                         Puede ajustarse a las necesidades de cambio de la organización</br>
-                                         <strong>Rapidez</strong></br>
-                                         Con qué “velocidad” se producen los sistemas</br>
-                                         <strong>Adaptación</strong></br>
-                                         Capacidad que tiene un usuario del mismo de adaptarlo a sus necesidades.</br>
-                                        </br>
-                                        <h2>Importancia del proceso de SW</h2></br>
-                                         Un proceso software debe especificar:</br>
-                                         -La <strong>secuencia de actividades</strong> a realizar por el equipo de desarrollo</br> 
-                                         -Flujo de actividades</br>
+                                        Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.<br>
+                                        - Muchos de los procesos de software son diferentes, pero todos implican:<br>
+                                        - Especificación;<br>
+                                        - Diseño e implementación;<br>
+                                        - Validación;<br>
+                                        - Evolución.<br>
+                                    <br>
+                                         <h2>Caracteristicas del proceso de SW</h2><br>
+                                         Cualquier proceso tiene las siguientes características:<br>
+                                         - El proceso establece todas las actividades principales<br>
+                                         - El proceso utiliza recursos, está sujeto a una serie de restricciones<br>
+                                         y genera productos intermedios y finales<br>
+                                         - El proceso puede estar compuesto de subprocesos que se<br>
+                                         encadenan de alguna manera. Puede definirse como una jerarquía de procesos organizada de modo que cada subproceso tenga su propio modelo de proceso<br>
+                                         - Cada actividad del proceso tiene criterios de entrada y de salida, de modo que se conoce cuándo comienza y cuándo termina una actividad<br>
+                                         -Las actividades se organizan en secuencia de modo que resulta claro cuando una actividad se realiza en orden relativo a otras actividades<br>
+                                         - Todo proceso tiene un conjunto de principios orientadores que explican las metas de cada actividad<br>
+                                         - Las restricciones o controles pueden aplicarse a una actividad, recurso o producto<br>
+                                        <br>
+                                         <h2>Otras características del proceso de SW</h2><br>
+                                         <strong>Comprensión</strong><br>
+                                         - Está definido y es comprensible<br>
+                                         <strong>Visibilidad</strong><br> 
+                                         - Se visualizan los progresos externamente<br>
+                                         <strong>Soporte</strong><br>
+                                         - Está soportado por herramientas CASE<br>
+                                         <strong>Aceptacion</strong><br>
+                                         Es aceptable para todos los actores implicados<br>
+                                         <strong>Confianza</strong><br>
+                                         - Los errores del proceso se detectan antes de que se produzca errores en el producto<br>
+                                         <strong>Robustez</strong><br>
+                                         Se puede continuar a pesar de problemas inesperados<br>
+                                         <strong>Capacidad de mantenimiento</strong><br>
+                                         Puede ajustarse a las necesidades de cambio de la organización<br>
+                                         <strong>Rapidez</strong><br>
+                                         Con qué “velocidad” se producen los sistemas<br>
+                                         <strong>Adaptación</strong><br>
+                                         Capacidad que tiene un usuario del mismo de adaptarlo a sus necesidades.<br>
+                                        <br>
+                                        <h2>Importancia del proceso de SW</h2><br>
+                                         Un proceso software debe especificar:<br>
+                                         -La <strong>secuencia de actividades</strong> a realizar por el equipo de desarrollo<br> 
+                                         -Flujo de actividades<br>
                                          -Los <trong>productos</trong> que deben crearse</br>
-                                         -Resultados del trabajo (modelos, documentos, datos informes...)</br> 
+                                         -Resultados del trabajo (modelos, documentos, datos informes...)<br> 
                                          -Qué y cuándo</br>
-                                         -La <strong>asignación de tareas</strong> a cada miembro del equipo y al equipo como un todo</br>
-                                         -Los <strong>criterios</strong> para controlar el proceso</br>
-                                         -Se establece el control de gestión de los proyectos software</br>
-                                         -Establecimiento de hitos</br>
-                                         -Las posibles <strong>heuristicas</strong></br>
-                                         </br>
-                                         <h2>Estándares relacionados con el proceso de SW</h2></br>
+                                         -La <strong>asignación de tareas</strong> a cada miembro del equipo y al equipo como un todo<br>
+                                         -Los <strong>criterios</strong> para controlar el proceso<br>
+                                         -Se establece el control de gestión de los proyectos software<br>
+                                         -Establecimiento de hitos<br>
+                                         -Las posibles <strong>heuristicas</strong><br>
+                                         <br>
+                                         <h2>Estándares relacionados con el proceso de SW</h2><br>
                                          <strong>Estándar ISO/IEC/IEEE 12207:2017</strong>
                                          El estándar ISO/IEC/IEEE 12207:2017 [ISO/IEC/IEEE, 2017] relativo
                                          a los procesos del ciclo de vida del software</br>
                                          - Se aplica a la adquisición de sistemas de software , productos y
-                                         servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.</br>
-                                         - Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software</br>
-                                         - También proporciona procesos que pueden emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software dentro de una organización o de un proyecto</br>
+                                         servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.<br>
+                                         - Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software<br>
+                                         - También proporciona procesos que pueden emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software dentro de una organización o de un proyecto<br>
                                          - Esta norma no fomenta o especifica ningún modelo concreto de
-                                         ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades</br>
+                                         ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades<br>
                                          <img src="/luis graduacion/Grafica4.png" width="600" heigth="600"alt="/luis graduacion/Grafica4.png"><br>
                                          <br>
-                                         <h2>Ciclo de vida del SW</h2></br>
+                                         <h2>Ciclo de vida del SW</h2><br>
                                          Cuando un proceso implica la construcción de algún producto,
-                                         suele referirse al proceso como un ciclo de vida</br>
+                                         suele referirse al proceso como un ciclo de vida<br>
                                          - El proceso de desarrollo de software suele denominarse ciclo de
-                                         vida del software</br>
+                                         vida del software<br>
                                          - La evolución del software representa el ciclo de actividades
                                          involucradas en el desarrollo, uso y mantenimiento de sistemas
-                                         software [Scacchi, 1987].</br>
+                                         software [Scacchi, 1987].<br>
                                          - Los proyectos software se desarrollan en una serie de fases
                                          - Van desde la concepción del software y su desarrollo inicial hasta su puesta en funcionamiento y posterior retirada por otra nueva
-                                         generación de software</br>
-                                         Estas fases pueden ser:</br> 
-                                         <strong>Temporales</strong></br>
-                                         - Forman una secuencia en el tiempo</br> 
-                                         <strong>Lógicas</strong></br>
-                                         - Cuando representan pasos o etapas que no constituyen una secuencia temporal</br>
-                                         Se puede definir ciclo de vida del software como:</br>
+                                         generación de software<br>
+                                         Estas fases pueden ser:<br> 
+                                         <strong>Temporales</strong><br>
+                                         - Forman una secuencia en el tiempo<br> 
+                                         <strong>Lógicas</strong><br>
+                                         - Cuando representan pasos o etapas que no constituyen una secuencia temporal<br>
+                                         Se puede definir ciclo de vida del software como:<br>
                                          - Las distintas fases por las que pasa el software desde que nace una necesidad de mecanizar un proceso hasta que deja de utilizarse el software que sirvió para ese objetivo, pasando por
-                                         las fases de desarrollo y explotación [Frakes et al., 1991]</br>
+                                         las fases de desarrollo y explotación [Frakes et al., 1991]<br>
                                          - El período de tiempo que comienza cuando se concibe un producto software y finaliza cuando el producto pierde su utilidad. El ciclo de vida del software incluye las siguientes fases:
-                                         fase de requisitos, fase de diseño, fase de realización, fase de pruebas, fase de instalación y aceptación, fase de operación y mantenimiento y, algunas veces, fase de retirada [AECC, 1986]</br>
-                                         </br> 
-                                         <h2>Ámbito general del ciclo de vida del SW</h2></br>
-                                         Desde un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas:</br>
-                                          <strong>Planifcación: </strong> idearemos un planeamiento detallado que gu e la gestión del proyecto, temporal y económicamente.</br>
-                                          <strong>Implementación:</strong> acordaremos el conjunto de ac vidades que componen la realización del producto.</br>
+                                         fase de requisitos, fase de diseño, fase de realización, fase de pruebas, fase de instalación y aceptación, fase de operación y mantenimiento y, algunas veces, fase de retirada [AECC, 1986]<br>
+                                         <br> 
+                                         <h2>Ámbito general del ciclo de vida del SW</h2><br>
+                                         Desde un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas:<br>
+                                          <strong>Planifcación: </strong> idearemos un planeamiento detallado que gu e la gestión del proyecto, temporal y económicamente.<br>
+                                          <strong>Implementación:</strong> acordaremos el conjunto de ac vidades que componen la realización del producto.<br>
                                           <strong>Puesta en producción:</strong> nuestro proyecto entra en la etapa de de nici n, all  donde se lo presentamos al cliente o usuario final, sabiendo que funciona correctamente y responde a los requerimientos solicitados en su momento. Esta etapa es muy importante no s lo por representar la aceptación o no del proyecto por parte del cliente o usuario  nal sino por las multiples dificultades que suele presentar en la práctica, alargandose excesivamente y provocando costos no previstos.<br>
                                          Objetivos de cada etapa (i).
                                          - En cada una de las etapas de un modelo de ciclo de vida, se
@@ -475,28 +475,28 @@
                                          documento obtenido en la etapa anterior se tomar  como
                                          punto de partida para esta etapa.<br>
                                          <strong>Análisis:</strong>determinamos los elementos que intervienen en el
-                                         sistema a desarrollar, su estructura, relaciones, evolución temporal, funcionalidades, tendremos una descripción clara de qué producto vamos a construir, qué funcionalidades aportar  y qué comportamiento tendrá.</br>
+                                         sistema a desarrollar, su estructura, relaciones, evolución temporal, funcionalidades, tendremos una descripción clara de qué producto vamos a construir, qué funcionalidades aportar  y qué comportamiento tendrá.<br>
                                          <strong>Diseño:</strong>ya sabemos qu  hacer, ahora tenemos que determinar
                                          cómo debemos hacerlo (¿c mo debe ser construido el sistema en cuestion?; definimos en detalle entidades y relaciones de las bases de datos, seleccionamos el lenguaje que vamos a utilizar, el Sistema Gestor de Bases de Datos, etc.).<br>
                                          <strong>Implementación:</strong>empezamos a codificar algoritmos y
                                          estructuras de datos, definidos en las etapas anteriores, en el correspondiente lenguaje de programación o para un determinado sistema gestor de bases de datos. En muchos proyectos se pasa directamente a esta etapa; son proyectos muy arriesgados que adoptan un modelo de ciclo de vida de code &  x (codi car y corregir) donde se eliminan las etapas de especi caciones, análisis y diseño con la consiguiente pérdida de control sobre la gestió  del proyecto<br>
                                          <strong>Debugging:</strong>el objetivo de esta etapa es garantizar que nuestro
-                                         programa no con ene errores de diseño o codificación. En esta etapa no deseamos saber si nuestro programa realiza lo que solicit  el usuario, esa tarea le corresponde a la etapa de implementaci n. En  sta deseamos encontrar la mayor can dad de errores. Todas los programas con enen errores: encontrarlos es cues  n de  empo. Lo ideal es encontrar la mayoría, si no todos, en esta etapa. También se pueden agregar testeos de performance.</br>
+                                         programa no con ene errores de diseño o codificación. En esta etapa no deseamos saber si nuestro programa realiza lo que solicit  el usuario, esa tarea le corresponde a la etapa de implementaci n. En  sta deseamos encontrar la mayor can dad de errores. Todas los programas con enen errores: encontrarlos es cues  n de  empo. Lo ideal es encontrar la mayoría, si no todos, en esta etapa. También se pueden agregar testeos de performance.<br>
                                          <strong>Validación:</strong>esta etapa  tiene como objetivo la verificación de
-                                         que el sistema desarrollado cumple con los requerimientos expresados inicialmente por el cliente y que han dado lugar al presente proyecto. En muchos proyectos las etapas de validación y debugging se realizan en paralelo por la estrecha relación que llevan. Sin embargo, tenemos que evitar la confusión: podemos realizarlos en paralelo, pero no como una  única etapa.</br>
-                                         </br>
-                                         <h2>Razones para modelar un proceso de SW</h2></br>
-                                         Cuando se pone por escrito una descripci n de un proceso, se da forma a una comprensión común de las actividades, recursos y restricciones relacionados con el desarrollo del software.</br>
-                                         - Ayuda al equipo de desarrollo a encontrar las inconsistencias, las redundancias y las omisiones en el proceso y en las partes que lo constituyen.</br>
-                                         - El modelo debe reflejar las metas del desarrollo. A medida que se construye el modelo el equipo de desarrollo eval a las actividades candidatas por su adecuaci n para alcanzar dichas metas.</br>
-                                         Ayuda al equipo de desarrollo a comprender d nde debe adaptarse el proceso</br>
-                                         - Los modelos de proceso de desarrollo de software incluyen los requisitos del sistema como entrada y un producto entregado como salida</br>
-                                         </br>
-                                         <h2>Razones para modelar un proceso de SW</h2></br>
+                                         que el sistema desarrollado cumple con los requerimientos expresados inicialmente por el cliente y que han dado lugar al presente proyecto. En muchos proyectos las etapas de validación y debugging se realizan en paralelo por la estrecha relación que llevan. Sin embargo, tenemos que evitar la confusión: podemos realizarlos en paralelo, pero no como una  única etapa.<br>
+                                         <br>
+                                         <h2>Razones para modelar un proceso de SW</h2><br>
+                                         Cuando se pone por escrito una descripci n de un proceso, se da forma a una comprensión común de las actividades, recursos y restricciones relacionados con el desarrollo del software.<br>
+                                         - Ayuda al equipo de desarrollo a encontrar las inconsistencias, las redundancias y las omisiones en el proceso y en las partes que lo constituyen.<br>
+                                         - El modelo debe reflejar las metas del desarrollo. A medida que se construye el modelo el equipo de desarrollo eval a las actividades candidatas por su adecuaci n para alcanzar dichas metas.<br>
+                                         Ayuda al equipo de desarrollo a comprender d nde debe adaptarse el proceso<br>
+                                         - Los modelos de proceso de desarrollo de software incluyen los requisitos del sistema como entrada y un producto entregado como salida<br>
+                                         <br>
+                                         <h2>Razones para modelar un proceso de SW</h2><br>
                                          <strong>Especificación:</strong>Formulación de los requisitos y restricciones del sistema.</br>
-                                         <strong>Diseño:</strong>Elaboración de un documento con el modelo del sistema</br>
-                                         <strong>Fabricación:</strong>Construcción del sistema</br>
-                                         <strong>Prueba:</strong>Comprobación de que el sistema cumple las especificaciones requeridas</br>
+                                         <strong>Diseño:</strong>Elaboración de un documento con el modelo del sistema<br>
+                                         <strong>Fabricación:</strong>Construcción del sistema<br>
+                                         <strong>Prueba:</strong>Comprobación de que el sistema cumple las especificaciones requeridas<br>
                                          <strong>Instalación:</strong>Entrega del sistema al cliente y garantía de que es operativo.<br>
                                          <strong>Mantenimiento:</strong>Reparación de los fallos que aparecen en el sistema.<br>
                                          <strong>Fase de defenición:</strong><br>
@@ -511,73 +511,73 @@
                                              	Existe un paso complementario: la planificación del proyecto software:
                                              	-Se asignan los recursos                
                                              	-Se estiman los costos
-                                             	-Se planifican las tareas y el trabajo</br>
-                                         <strong>Fase de defenición:</strong></br>
-                                         	-Fase orientada al CÓMO</br>
-                                         	-El primer paso de esta fase corresponde al Diseño del Software </br>                              
-                                         	-Se trasladan los requisitos del software a un conjunto de representaciones que describen la estructura de datos, arquitectura del software y procedimientos algorítmicos que permiten la construcción física de dicho software.</br>                      
-                                         	-Los otros dos pasos de la fase de desarrollo corresponden a la Codificación y a la Prueba del Software</br>
-                                         <strong>Fase de defenición:</strong></br>
-                                         <strong>Mantenimiento correctivo</strong></br>
-                                            Corrección de errores</br>
-	                                        <strong>Mantenimiento adaptativo</strong></br>
-	                                        Adaptaciones requeridas por la evolución del entorno del software</br>
-                                            <strong>Mantenimiento perfectivo</strong></br>
-	                                        Las modificaciones debidas a los cambios de requisitos del usuario para mejorar el sistem</br>
-	                                        <strong>Mantenimiento preventivo</strong></br>
-	                                        Mejora de las características internas del producto para hacer más mantenible</br>
+                                             	-Se planifican las tareas y el trabajo<br>
+                                         <strong>Fase de defenición:</strong><br>
+                                         	-Fase orientada al CÓMO<br>
+                                         	-El primer paso de esta fase corresponde al Diseño del Software <br>                              
+                                         	-Se trasladan los requisitos del software a un conjunto de representaciones que describen la estructura de datos, arquitectura del software y procedimientos algorítmicos que permiten la construcción física de dicho software.<br>                      
+                                         	-Los otros dos pasos de la fase de desarrollo corresponden a la Codificación y a la Prueba del Software<br>
+                                         <strong>Fase de defenición:</strong><br>
+                                         <strong>Mantenimiento correctivo</strong><br>
+                                            Corrección de errores<br>
+	                                        <strong>Mantenimiento adaptativo</strong><br>
+	                                        Adaptaciones requeridas por la evolución del entorno del software<br>
+                                            <strong>Mantenimiento perfectivo</strong><br>
+	                                        Las modificaciones debidas a los cambios de requisitos del usuario para mejorar el sistem<br>
+	                                        <strong>Mantenimiento preventivo</strong><br>
+	                                        Mejora de las características internas del producto para hacer más mantenible<br>
                                         </br>
-                                        <h2>Modelos de procesos de software:</h2></br>
+                                        <h2>Modelos de procesos de software:</h2><br>
                                         <strong>El modelo de cascada:</strong></br>
                                         <img src="/luis graduacion/Grafica5.png" width="600" heigth="600"alt="/luis graduacion/Grafica5.png"><br>
-                                        	Las fases están identificadas por separado:</br>
-	                                       - El análisis y definición de requerimientos</br>
-	                                       - Diseño del sistema y software.</br>
-	                                       - Pruebas de implementación de unidades</br>
-	                                       - Integración y pruebas del sistema</br>
-	                                       -  Operación y mantenimiento</br>
-	                                       -  El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</br>
-                                        <strong>Problemas del modelo de cascada:</strong></br>
-                                        	- Inflexible división del proyecto en fases distintas hace que sea difícil responder a las necesidades cambiantes de los clientes.</br>
-	                                        - Por lo tanto, este modelo sólo es apropiado cuando los requisitos son bien entendidos y los cambios serán bastante limitados durante el proceso de diseño.</br>
-	                                        - Pocos sistemas tienen requisitos estables.</br>
-                                            - El modelo de cascada se utiliza sobre todo para los grandes proyectos de ingeniería de sistemas en que un sistema se desarrolla en varios lugares.</br>               
-                                        <strong>Desarrollo incremental:</strong></br>
+                                        	Las fases están identificadas por separado:<br>
+	                                       - El análisis y definición de requerimientos<br>
+	                                       - Diseño del sistema y software.<br>
+	                                       - Pruebas de implementación de unidades<br>
+	                                       - Integración y pruebas del sistema<br>
+	                                       -  Operación y mantenimiento<br>
+	                                       -  El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.<br>
+                                        <strong>Problemas del modelo de cascada:</strong><br>
+                                        	- Inflexible división del proyecto en fases distintas hace que sea difícil responder a las necesidades cambiantes de los clientes.<br>
+	                                        - Por lo tanto, este modelo sólo es apropiado cuando los requisitos son bien entendidos y los cambios serán bastante limitados durante el proceso de diseño.<br>
+	                                        - Pocos sistemas tienen requisitos estables.<br>
+                                            - El modelo de cascada se utiliza sobre todo para los grandes proyectos de ingeniería de sistemas en que un sistema se desarrolla en varios lugares.<br>               
+                                        <strong>Desarrollo incremental:</strong><br>
                                         <img src="/luis graduacion/Grafica6.png" width="600" heigth="600"alt="/luis graduacion/Grafica6.png"><br>
-                                        <strong>Beneficios:</strong></br>
+                                        <strong>Beneficios:</strong><br>
                                         	 - El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
-                                             - La cantidad de análisis y la documentación que tiene que ser hecho de nuevo es mucho menor que la que se requiere con el modelo de cascada.</br>
-    	                                     - Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.</br>
-                                             - Los clientes pueden hacer comentarios sobre las manifestaciones del software y ver cuánto se ha implementado.</br>
-                                        <strong>Problemas:</strong></br>
-                                        	- El proceso no es visible.</br>
-                                        	- Los gerentes necesitan entregas regulares para medir el progreso. Si se desarrollan rápidamente los sistemas, no es rentable para producir documentos que reflejen todas las versiones del sistema.</br>
+                                             - La cantidad de análisis y la documentación que tiene que ser hecho de nuevo es mucho menor que la que se requiere con el modelo de cascada.<br>
+    	                                     - Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
+                                             - Los clientes pueden hacer comentarios sobre las manifestaciones del software y ver cuánto se ha implementado.<br>
+                                        <strong>Problemas:</strong><br>
+                                        	- El proceso no es visible.<br>
+                                        	- Los gerentes necesitan entregas regulares para medir el progreso. Si se desarrollan rápidamente los sistemas, no es rentable para producir documentos que reflejen todas las versiones del sistema.<br>
                                         	- Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.</br>
-                                        	- A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. La incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.</br>                                           
+                                        	- A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. La incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.<br>                                           
                                         <strong>Espiral:</strong></br>
                                         <img src="/luis graduacion/Grafica7.png" width="600" heigth="600"alt="/luis graduacion/Grafica7.png"><br>
                                         <strong>Definición:</strong></br>
-                                        	- Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.</br>
-	                                        - Las actividades de este modelo son una espiral, cada bucle es una actividad.</br>
-                                        	- Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.</br>
-                                        <strong>Principios básicos:</strong></br>
-                                        	- Decidir qué problema se quiere resolver antes de viajar a resolverlo.</br>
-	                                        - Examinar tus múltiples alternativas de acción y elegir una de las más convenientes.</br>
-                                        	- Evaluar qué tienes hecho y qué tienes que haber aprendido después de hacer algo.</br>
+                                        	- Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
+	                                        - Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
+                                        	- Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
+                                        <strong>Principios básicos:</strong><br>
+                                        	- Decidir qué problema se quiere resolver antes de viajar a resolverlo.<br>
+	                                        - Examinar tus múltiples alternativas de acción y elegir una de las más convenientes.<br>
+                                        	- Evaluar qué tienes hecho y qué tienes que haber aprendido después de hacer algo.<br>
                                         	- No ser tan ingenuo para pensar que el sistema que estás construyendo será "EL" sistema que el cliente necesita, 
-                                        	Conocer (comprender) los niveles de riesgo, que tendrás que tolerar.</br>
-                                        <strong>Caracteristicas:</strong></br>
-                                        	- En cada giro se construye un nuevo modelo del sistema completo.</br>
-                                        	- Este modelo puede combinarse con otros modelos de proceso de desarrollo (cascada, evolutivo).</br>
-                                        	- Mejor modelo para el desarrollo de grandes sistemas.</br>
-                                        	- El análisis de riesgo requiere la participación de personal altamente calificado.</br>
-                                        <strong>Ventajas:</strong></br>
-                                        	- El modelo en espiral puede adaptarse y aplicarse a lo largo de la vida del software de computadora.</br>
-                                        	- Como el software evoluciona a medida que progresa el proceso, el desarrollador y el cliente comprenden y reaccionan mejor ante riesgos en cada uno de los nivele evolutivos.</br>
-                                        	- El modelo en espiral permite a quien lo desarrolla aplicar el enfoque de construcción de prototipos en cualquier etapa de evolución del producto.</br>
-                                            - El modelo en espiral demanda una consideración directa de los riesgos técnicos en todas las etapas del proyecto y si se aplica adecuadamente debe reducir los riesgos antes de que se conviertan en problemas.</br>
-                                            - En la utilización de grandes sistemas a doblado la productividad.</br>
-                                        <strong>Desarrollo rápido de aplicaciones (DRA):</strong></br>
+                                        	Conocer (comprender) los niveles de riesgo, que tendrás que tolerar.<br>
+                                        <strong>Caracteristicas:</strong><br>
+                                        	- En cada giro se construye un nuevo modelo del sistema completo.<br>
+                                        	- Este modelo puede combinarse con otros modelos de proceso de desarrollo (cascada, evolutivo).<br>
+                                        	- Mejor modelo para el desarrollo de grandes sistemas.<br>
+                                        	- El análisis de riesgo requiere la participación de personal altamente calificado.<br>
+                                        <strong>Ventajas:</strong><br>
+                                        	- El modelo en espiral puede adaptarse y aplicarse a lo largo de la vida del software de computadora.<br>
+                                        	- Como el software evoluciona a medida que progresa el proceso, el desarrollador y el cliente comprenden y reaccionan mejor ante riesgos en cada uno de los nivele evolutivos.<br>
+                                        	- El modelo en espiral permite a quien lo desarrolla aplicar el enfoque de construcción de prototipos en cualquier etapa de evolución del producto.<br>
+                                            - El modelo en espiral demanda una consideración directa de los riesgos técnicos en todas las etapas del proyecto y si se aplica adecuadamente debe reducir los riesgos antes de que se conviertan en problemas.<br>
+                                            - En la utilización de grandes sistemas a doblado la productividad.<br>
+                                        <strong>Desarrollo rápido de aplicaciones (DRA):</strong><br>
                                         <img src="/luis graduacion/Grafica8.png" width="600" heigth="600"alt="/luis graduacion/Grafica8.png"><br>
                                         <strong>Definición:</strong></br>
                                         	Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.                     
@@ -587,39 +587,39 @@
                                           	- Cuando se utiliza principalmente para aplicaciones de sistemas de información, el enfoque DRA comprende las siguientes fases:<br>
                                           	 <strong>Modelado de gestión:</strong> El flujo de información entre las funciones de gestión se modela de forma que responda a las siguientes preguntas: ¿Qué información conduce el proceso de gestión? ¿Qué información se genera? ¿Quién la genera? ¿A dónde va la información? ¿Quién la procesa?<br>             
                                              <strong>Modelado de datos:</strong> El flujo de información definido como parte de la fase de modelado de gestión refina como un conjunto de objetos de datos necesarios para apoyar la empresa.<br>
-                                             <strong>Modelado de procesos:</strong> Los objetos de datos definidos en la fase de modelado de datos quedan transformados para lograr el flujo de información necesario para implementar una función de gestión. Las descripciones se crean para añadir, modificar, suprimir, o recuperar un objeto de datos.</br>
-                                             <strong>Generación de aplicaciones:</strong> El DRA asume la utilización de técnicas de cuarta generación. En lugar de crear software con lenguajes de programación de tercera generación, el proceso DRA trabaja para volver a utilizar componentes de programas ya existentes (cuando es posible) o a crear componentes reutilizables (cuando sea necesario). En todos los casos se utilizan herramientas automáticas para facilitar.</br>
+                                             <strong>Modelado de procesos:</strong> Los objetos de datos definidos en la fase de modelado de datos quedan transformados para lograr el flujo de información necesario para implementar una función de gestión. Las descripciones se crean para añadir, modificar, suprimir, o recuperar un objeto de datos.<br>
+                                             <strong>Generación de aplicaciones:</strong> El DRA asume la utilización de técnicas de cuarta generación. En lugar de crear software con lenguajes de programación de tercera generación, el proceso DRA trabaja para volver a utilizar componentes de programas ya existentes (cuando es posible) o a crear componentes reutilizables (cuando sea necesario). En todos los casos se utilizan herramientas automáticas para facilitar.<br>
                                              <strong>Prueba y entrega:</strong>Como el proceso DRA enfatiza la reutilización, ya se han comprobado muchos de los componentes de los programas. Esto reduce tiempo de pruebas. Sin embargo, se deben probar todos los componentes nuevos y se deben ejercitar todas las interfaces a fondo.
                                              <strong>Limitaciones:</strong></br> 
-                                            	- Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.</br>
-                                            	- Si una aplicación de gestión puede modularse de forma que permita completarse cada una de las funciones principales en menos de tres meses, es el candidato del DRA.</br>                                    
-                                            	- Cada una de las funciones puede ser afrontada por un equipo DRA diferente y ser integradas en un solo conjunto.</br>
+                                            	- Las limitaciones de tiempo impuestas en un proyecto DRA demandan ámbito en escalas.<br>
+                                            	- Si una aplicación de gestión puede modularse de forma que permita completarse cada una de las funciones principales en menos de tres meses, es el candidato del DRA.<br>                                    
+                                            	- Cada una de las funciones puede ser afrontada por un equipo DRA diferente y ser integradas en un solo conjunto.<br>
                                              <strong>Problemas:</strong></br>
-                                                	- Para proyectos grandes aunque por escalas, el DRA requiere recursos humanos suficientes como para crear el número correcto de equipos DRA.</br>
-                                                    - DRA requiere clientes y desarrolladores comprometidos en las rápidas actividades necesarias para completar un sistema en un marco de tiempo abreviado. Si no hay compromiso, por ninguna de las partes constituyentes, los proyectos DRA fracasarán.</br>
-                                                    - No todos los tipos de aplicaciones son apropiados para DRA.</br>
-                                                    - Si un sistema no puede modularizarse adecuadamente, la construcción de los componentes necesarios para DRA será problemático.</br>
-                                                    - Si está en juego el alto rendimiento, y se va a conseguir el rendimiento convirtiendo interfaces en componentes de sistemas, el modelo DRA puede que no funcione.</br> 
-                                            <strong>Mantenimiento preventivo</strong></br>
-                                        <strong>Orientados a la realización:</strong></br>
+                                                	- Para proyectos grandes aunque por escalas, el DRA requiere recursos humanos suficientes como para crear el número correcto de equipos DRA.<br>
+                                                    - DRA requiere clientes y desarrolladores comprometidos en las rápidas actividades necesarias para completar un sistema en un marco de tiempo abreviado. Si no hay compromiso, por ninguna de las partes constituyentes, los proyectos DRA fracasarán.<br>
+                                                    - No todos los tipos de aplicaciones son apropiados para DRA.<br>
+                                                    - Si un sistema no puede modularizarse adecuadamente, la construcción de los componentes necesarios para DRA será problemático.<br>
+                                                    - Si está en juego el alto rendimiento, y se va a conseguir el rendimiento convirtiendo interfaces en componentes de sistemas, el modelo DRA puede que no funcione.<br> 
+                                            <strong>Mantenimiento preventivo</strong><br>
+                                        <strong>Orientados a la realización:</strong><br>
                                         <img src="/luis graduacion/Grafica9.png" width="600" heigth="600"alt="/luis graduacion/Grafica9.png"><br>
                                         <strong>Definición:</strong></br>
-                                        	- Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.</br>
+                                        	- Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.<br>
                                             - Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</br>
                                             - El proceso tiende a estructurarse en dos subprocesos distintos y separados:
                                             - <strong>El desarrollo para reutilización:</strong> construcción de elementos reutilizables dentro de un dominio concreto.</br>
                                             - <strong>El desarrollo con reutilización:</strong> construcción de aplicaciones utilizando elementos reutilizables.</br>
-                                            <strong>Etapas del proceso</strong></br>
-                                        	- Análisis de los componentes;</br>
-                                        	- Requisitos de modificación;</br>
+                                            <strong>Etapas del proceso</strong><br>
+                                        	- Análisis de los componentes;<br>
+                                        	- Requisitos de modificación;<br>
                                         	- Configuración del sistema con la reutilización;</br>
-                                        	- Desarrollo e integración.</br>
+                                        	- Desarrollo e integración.<br>
                                         	- La reutilización es ahora el enfoque estándar para la construcciónde muchos tipos de sistemas de negocio.</br>
-                                        <strong>Orientados a objetos:</strong></br>
+                                        <strong>Orientados a objetos:</strong><br>
                                         <img src="/luis graduacion/Grafica10.png" width="600" heigth="600"alt="/luis graduacion/Grafica10.png"><br>
                                         <strong>Definición</strong></br>
                                         	- El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
-                                        	- Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre si de acuerdo a los requerimientos establecidos para el sistema de objetos.</br>
+                                        	- Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre si de acuerdo a los requerimientos establecidos para el sistema de objetos.<br>
                                             <strong>Caracteristicas</strong><br>
                                             	- EL modelado Orientado a Objetos está basado en el paradigma orientado a objetos.<br>
                                             	- Trata el almacenamiento de objetos (persistencia de los objetos).<br>                                    
