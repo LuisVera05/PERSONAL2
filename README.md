@@ -53,7 +53,7 @@
 			                <div class="col-lg-3 col-sm-3">
                    <div class="logo">
                         <a href="index.html">
-                           <img src="/luis graduacion/Logo2.png" width="150" heigth="150" alt="/luis graduacion/Logo.png">
+                           <img src="/luis graduacion/Logo2.png" width="150" heigth="150" alt="/luis graduacion/Logo2.png">
                         </a>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                                         <img src="/luis graduacion/Crubik.png" alt="/luis graduacion/Crubik.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="2">
-                                        <img src="/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="3" class="noMarginRight">
                                         <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
