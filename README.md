@@ -1,5 +1,5 @@
 
-<html lang="en">
+<html lang="es">
 
 <head>
     <title>Luis Alberto Vera Garcia</title>
@@ -32,7 +32,7 @@
         <![endif]-->
 
     <!-- Favicon Icon -->
-   <link rel="icon" type="image/png" width="16" heigth="16" href="images/Logo3.png">
+   <link rel="icon" type="image/png" href="images/Logo3.png">
     <!-- Favicon Icon -->
 </head>
 
