@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -545,7 +545,7 @@
                                         <strong>Desarrollo incremental:</strong></br>
                                         <img src="/luis graduacion/Grafica6.png" width="600" heigth="600"alt="/luis graduacion/Grafica6.png"><br>
                                         <strong>Beneficios:</strong></br>
-                                        	 - El costo de atender las necesidades cambiantes de los clientes se reduce.</br>
+                                        	 - El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
                                              - La cantidad de análisis y la documentación que tiene que ser hecho de nuevo es mucho menor que la que se requiere con el modelo de cascada.</br>
     	                                     - Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.</br>
                                              - Los clientes pueden hacer comentarios sobre las manifestaciones del software y ver cuánto se ha implementado.</br>
@@ -618,45 +618,45 @@
                                         <strong>Orientados a objetos:</strong></br>
                                         <img src="/luis graduacion/Grafica10.png" width="600" heigth="600"alt="/luis graduacion/Grafica10.png"><br>
                                         <strong>Definición</strong></br>
-                                        	- El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.</br>
+                                        	- El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
                                         	- Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre si de acuerdo a los requerimientos establecidos para el sistema de objetos.</br>
-                                            <strong>Caracteristicas</strong></br>
-                                            	- EL modelado Orientado a Objetos está basado en el paradigma orientado a objetos.</br>
-                                            	- Trata el almacenamiento de objetos (persistencia de los objetos).</br>                                    
-                                            	- Define un lenguaje para le definición y manipulación de objetos.</br>                                           
-                                            	- Incluye mecanismos para optimizar el acceso (Indexación y Clustering), el control de la concurrencia, seguridad y gestión de usuarios, facilidad de consulta y recuperación ante fallos.</br>
+                                            <strong>Caracteristicas</strong><br>
+                                            	- EL modelado Orientado a Objetos está basado en el paradigma orientado a objetos.<br>
+                                            	- Trata el almacenamiento de objetos (persistencia de los objetos).<br>                                    
+                                            	- Define un lenguaje para le definición y manipulación de objetos.<br>                                           
+                                            	- Incluye mecanismos para optimizar el acceso (Indexación y Clustering), el control de la concurrencia, seguridad y gestión de usuarios, facilidad de consulta y recuperación ante fallos.<br>
                                     </br>
-                                    <h2>Procesos ágiles:</h2></br> 
-                                    <strong>Definición</strong></br>
-                                        Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:</br>
+                                    <h2>Procesos ágiles:</h2><br> 
+                                    <strong>Definición</strong><br>
+                                        Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
                                         <strong>1.</strong> Es difícil predecir qué requerimientos de software persistirán y
                                         cuáles  cambiarán. También  es difícil pronosticar cómo
-                                        cambiarán las prioridades del cliente a medida que avanza el proyecto.</br>
-                                        <strong>2.</strong>	Para muchos tipos de software, el diseño y la construcciónestán imbricados.</br>
-                                </br>
-                                        <h2>Procesos ágiles:</h2></br> 
-                                        <strong>Definición</strong></br>
-                                        	- Un proceso de software ágil debe adaptarse incrementalmente. Para lograr la adaptación incremental, un equipo ágil requiere retroalimentación con el cliente (de modo que sea posible hacer las adaptaciones apropiadas).</br>
-                                        	- Un catalizador eficaz para la retroalimentación con el cliente es un prototipo operativo o una porción de un sistema operativo. – Qué estrategia se debe aplicar?</br>
-                                        	- Este enfoque iterativo permite que el cliente evalúe en forma regular el incremento de software, dé la retroalimentación necesaria al equipo de software e influya en las adaptaciones del proceso que se realicen para aprovechar la retroalimentación.</br>
-                                            <strong>Factores humanos</strong></br> 
-                                            	“El desarrollo ágil se centra en los talentos y habilidades de los individuos, y adapta el proceso a personas y equipos específicos.”</br>
+                                        cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
+                                        <strong>2.</strong>	Para muchos tipos de software, el diseño y la construcciónestán imbricados.<br>
+                                <br>
+                                        <h2>Procesos ágiles:</h2><br> 
+                                        <strong>Definición</strong><br>
+                                        	- Un proceso de software ágil debe adaptarse incrementalmente. Para lograr la adaptación incremental, un equipo ágil requiere retroalimentación con el cliente (de modo que sea posible hacer las adaptaciones apropiadas).<br>
+                                        	- Un catalizador eficaz para la retroalimentación con el cliente es un prototipo operativo o una porción de un sistema operativo. – Qué estrategia se debe aplicar?<br>
+                                        	- Este enfoque iterativo permite que el cliente evalúe en forma regular el incremento de software, dé la retroalimentación necesaria al equipo de software e influya en las adaptaciones del proceso que se realicen para aprovechar la retroalimentación.<br>
+                                            <strong>Factores humanos</strong><br> 
+                                            	“El desarrollo ágil se centra en los talentos y habilidades de los individuos, y adapta el proceso a personas y equipos específicos.”<br>
                                             	<strong>Competencia.</strong> En un contexto de desarrollo ágil (así como en la                                          
-                                               ingeniería de software), la “competencia” incluye el talento innato, las habilidades específicas relacionadas con el software y el conocimiento general del proceso que el equipo haya elegido aplicar.  </br>     
-                                               <strong> Enfoque común.</strong> Aunque los miembros del equipo ágil realicen diferentes tareas y aporten habilidades distintas al proyecto, todos deben centrarse en una meta: entregar al cliente en la fecha prometida un incremento de software que funcione.</br>
-                                               <strong>Colaboración.</strong>La ingeniería de software (sin importar el proceso) trata de evaluar, analizar y usar la información que se comunica al equipo de software; crear información que ayudará a todos los participantes a entender el trabajo del equipo; y generar información (software de cómputo y bases de datos relevantes) que aporten al cliente valor del negocio. Para efectuar estas tareas, los miembros del equipo deben colaborar, entre sí y con todos los participantes.</br>
-                                               	Habilidad para tomar decisiones. Cualquier equipo bueno de software (incluso los equipos ágiles) debe tener libertad para controlar su destino.</br>   
+                                               ingeniería de software), la “competencia” incluye el talento innato, las habilidades específicas relacionadas con el software y el conocimiento general del proceso que el equipo haya elegido aplicar.  <br>     
+                                               <strong> Enfoque común.</strong> Aunque los miembros del equipo ágil realicen diferentes tareas y aporten habilidades distintas al proyecto, todos deben centrarse en una meta: entregar al cliente en la fecha prometida un incremento de software que funcione.<br>
+                                               <strong>Colaboración.</strong>La ingeniería de software (sin importar el proceso) trata de evaluar, analizar y usar la información que se comunica al equipo de software; crear información que ayudará a todos los participantes a entender el trabajo del equipo; y generar información (software de cómputo y bases de datos relevantes) que aporten al cliente valor del negocio. Para efectuar estas tareas, los miembros del equipo deben colaborar, entre sí y con todos los participantes.<br>
+                                               	Habilidad para tomar decisiones. Cualquier equipo bueno de software (incluso los equipos ágiles) debe tener libertad para controlar su destino.<br>   
                                                	Capacidad para resolver problemas difusos. Los gerentes de                                              
-                                               software deben reconocer que el equipo ágil tendrá que tratar en forma continua con la ambigüedad y que será sacudido de manera permanente por el cambio. </br>                          
-                                               	Confianza y respeto mutuos. El equipo ágil debe convertirse en un equipo “pegado”. Un equipo pegado tiene la confianza y respeto que son necesarios para hacer “su tejido tan fuerte que el todo es más que la suma de sus partes” [DeM98].</br>   
-                                                   <strong>Organización propia.</strong> En el contexto del desarrollo ágil, la organización propia implica tres cosas:</br> 
-                                                    <strong>1)</strong> el equipo ágil se organiza a sí mismo para hacer el trabajo</br>             
-                                                    <strong>2)</strong> el equipo organiza el proceso que se adapte mejor a su ambiente local</br>                                    
-                                                    <strong>3)</strong> el equipo organiza la programación del trabajo a fin de que se logre del mejor modo posible la entrega del incremento de software.</br> 
+                                               software deben reconocer que el equipo ágil tendrá que tratar en forma continua con la ambigüedad y que será sacudido de manera permanente por el cambio. <br>                          
+                                               	Confianza y respeto mutuos. El equipo ágil debe convertirse en un equipo “pegado”. Un equipo pegado tiene la confianza y respeto que son necesarios para hacer “su tejido tan fuerte que el todo es más que la suma de sus partes” [DeM98].<br>   
+                                                   <strong>Organización propia.</strong> En el contexto del desarrollo ágil, la organización propia implica tres cosas:<br> 
+                                                    <strong>1)</strong> el equipo ágil se organiza a sí mismo para hacer el trabajo<br>             
+                                                    <strong>2)</strong> el equipo organiza el proceso que se adapte mejor a su ambiente local<br>                                    
+                                                    <strong>3)</strong> el equipo organiza la programación del trabajo a fin de que se logre del mejor modo posible la entrega del incremento de software.<br> 
                                         </p>
 
                                 
-                                </br>
+                                <br>
                                    
                             </p>
                         </div>
