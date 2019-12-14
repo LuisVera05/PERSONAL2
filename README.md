@@ -162,11 +162,11 @@
                                     </div>
 
                                     <div class="item">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
                                     </div>
 
                                     <div class="item">
-                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="/luis graduacion/proceso-desarrollo de sitio web personal.png">
+                                        <img src="/luis graduacion/proceso-desarrollo de sitio web personal.png" alt="">
                                     </div>
                                 </div>
 
