@@ -338,7 +338,7 @@
                                                     <strong>Métricas de costo:</strong> se centra en el costo total del sistema informático.<br> 
                                                     <strong> Métricas orientadas al tamaño:</strong> Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.<br> 
                                                     Si una organización de software mantiene registros sencillos, se puede crear una tabla de datos orientados al tamaño, como la que muestra la figura, que lista cada proyecto de desarrollo de software y las medidas correspondientes de cada proyecto<br> 
-                                                    <img src="luis graduacion/Grafica2.png" width="800" heigth="800"alt=""><br>
+                                                 <img src="luis graduacion/Grafica2.png" width="800" heigth="800" alt=""><br>
                                                    
                                                     Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:<br>
                                                     -Productividad = KLDC /Esfuerzo<br>
