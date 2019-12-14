@@ -138,7 +138,7 @@
                                 <!-- Indicators -->
                                 <ol class="carousel-indicators">
                                     <li data-target="#myCarousel" data-slide-to="0" class="active">
-                                        <img src="/Users/usuario/Desktop/finex2/luis graduacion/Grafica11.png" alt="">
+                                        <img src="/luis graduacion/Grafica11.png" alt="">
                                     </li>
                                     <li data-target="#myCarousel" data-slide-to="1">
                                         <img src="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png" alt="/Users/usuario/Desktop/finex2/luis graduacion/Crubik.png">
