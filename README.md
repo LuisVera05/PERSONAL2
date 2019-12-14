@@ -324,7 +324,7 @@
                                                     <strong>Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).<br> 
                                                     <strong>Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).<br> 
                                                     Por ejemplo, dados los siguientes valores de un paquete de base de datos en dos proyectos, podemos calcular la integridad<br>
-                                                    <img src="luisvera05.github.io/luis graduacion/Logo2.png" width="800" heigth="800"alt=""><br>
+                                                    <img src="/luis graduacion/Logo2.png" width="800" heigth="800"alt=""><br>
                                                    
                                                     <strong>Solución:</strong><br> 
                                                     -Integridad para el proyecto 1:<br> 
