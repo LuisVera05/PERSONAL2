@@ -612,7 +612,7 @@
                                             <strong>Etapas del proceso</strong><br>
                                         	- Análisis de los componentes;<br>
                                         	- Requisitos de modificación;<br>
-                                        	- Configuración del sistema con la reutilización;</br>
+                                        	- Configuración del sistema con la reutilización;<br>
                                         	- Desarrollo e integración.<br>
                                         	- La reutilización es ahora el enfoque estándar para la construcciónde muchos tipos de sistemas de negocio.<br>
                                         <strong>Orientados a objetos:</strong><br>
