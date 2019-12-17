@@ -70,7 +70,7 @@
                             <span></span>
                         </div>
                         <ul>
-                            <li class="has-menu-items active"><a name= "Unidad#1">Unidad#1</a><a href="#Unidad#1">Enlace a la Unidad#1</a></li>
+                            <li class="has-menu-items active"><a name= "Unidad#1">Unidad#1</a><a href="#Unidad#1"> Unidad#1</a></li>
                             <li><a href="about.html">about</a></li>
                             <li class="has-menu-items"><a class="drop_menu" href="#">our proyects
                             </a>
