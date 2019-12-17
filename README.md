@@ -71,30 +71,7 @@
                         </div>
                         <ul>
                            
-                                <ul class="sub-menu">
-                                    <li><a href="services.html">Services Page</a></li>
-                                    <li><a href="services_details.html">Services Details</a></li>
-                                </ul>
-                            </li> 
-                            <li class="has-menu-items"><a class="drop_menu" href="#">projects</a>
-                                <ul class="sub-menu">
-                                    <li><a href="project.html">All Project</a></li>
-                                    <li><a href="project_single.html">Single Project</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-menu-items"><a class="drop_menu" href="#">blogs </a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog_rightsidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog_leftsidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog_detailsright.html">Blog Details Right</a></li>
-                                    <li><a href="blog_detailsleft.html">Blog Details Left</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-menu-items"><a class="drop_menu" href="#">Page</a>
-                                <ul class="sub-menu">
-                                    <li><a href="404.html">404 Page</a></li>
-                                    <li><a href="about.html">About Page</a></li>
-                                    <li><a href="contact.html">Contact Page</a></li>
+                              
 
                                 </ul>
                             </li>
