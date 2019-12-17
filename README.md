@@ -69,16 +69,7 @@
                             <span></span>
                             <span></span>
                         </div>
-                        <ul>
-                           
-                              
-
-                                </ul>
-                            </li>
-
-                            <li><a href="contact.html">Contact Us</a></li>
-
-                        </ul>
+                        
                     </nav>
                 </div>
 
