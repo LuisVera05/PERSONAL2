@@ -71,9 +71,6 @@
                         </div>
                         <ul>
                            
-                            <li><a href="about.html">about</a></li>
-                            <li class="has-menu-items"><a class="drop_menu" href="#">our proyects
-                            </a>
                                 <ul class="sub-menu">
                                     <li><a href="services.html">Services Page</a></li>
                                     <li><a href="services_details.html">Services Details</a></li>
