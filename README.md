@@ -144,6 +144,7 @@
                                 </a>
                             </div>
                         </div>
+			<section id="about">
                         <div class="projectDetais">
                             <h2 class="proDetaTitle">¿Quién es Luis Vera?</h2>
                             <p>   
@@ -151,7 +152,7 @@
                             en la Universidad de Guayaquil
                             </p>
                             <p>
-                                
+                         </section>  
 								
                             </p>
                             <p>
