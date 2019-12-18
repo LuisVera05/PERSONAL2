@@ -87,7 +87,7 @@
                         <div class="breadCumpNav">
                             <a href="index.html">Home</a>
                             <i class="fa fa-angle-right"></i>
-                            <a href="¿Quién es Luis Vera?">¿Quién soy?</a>
+                            <a href="#¿Quién es Luis Vera?">¿Quién soy?</a>
                         </div>
                     </div>
                 </div>
