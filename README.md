@@ -667,10 +667,11 @@
                         </div>
                      </div>
                      <div class="social col-md-12">
-                        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/home"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         <a href="https://www.facebook.com/luisalberto.veragarcia.3"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/luisalberto.veragarcia/?hl=es-la"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.youtube.com/channel/UC21EEtc-6HWul02yRcKXOkA?view_as=subscriber"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+			<a href="https://es.stackoverflow.com/users/148681/luis-alberto-vera-garc%C3%ADa"><i class="fa fa-stackoverflow" aria-hidden="true"></i></a>
                      </div>
                   </div>
                </div>
