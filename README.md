@@ -183,13 +183,13 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Acerca de Mí</a><br>
+            <a class="nav-link js-scroll-trigger" href="#¿Quién es Luis Vera?">¿Quién es Luis Vera?</a><br>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">IIS Unidad 1</a><br>
+            <a class="nav-link js-scroll-trigger" href="#Unidad#1">Unidad#1</a><br>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#project">IIS Unidad 2</a><br>
+            <a class="nav-link js-scroll-trigger" href="#Unidad#2">Unidad#2</a><br>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a><br>
