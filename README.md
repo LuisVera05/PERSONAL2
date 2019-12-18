@@ -83,11 +83,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center breadsec">
-                        <h1 class="breadTitle">¿Quién soy?</h1>
+                        <h1 class="breadTitle">Luis Vera</h1>
                         <div class="breadCumpNav">
                             <a href="index.html">Home</a>
                             <i class="fa fa-angle-right"></i>
-                            <a href="#">Luis Vera</a>
+                            <a href="¿Quién es Luis Vera?">¿Quién soy?</a>
                         </div>
                     </div>
                 </div>
