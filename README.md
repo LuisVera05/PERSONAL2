@@ -183,16 +183,16 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Acerca de Mí</a>
+            <a class="nav-link js-scroll-trigger" href="#about">Acerca de Mí</a><br>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">IIS Unidad 1</a>
+            <a class="nav-link js-scroll-trigger" href="#projects">IIS Unidad 1</a><br>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#project">IIS Unidad 2</a>
+            <a class="nav-link js-scroll-trigger" href="#project">IIS Unidad 2</a><br>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a>
+            <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a><br>
           </li>
         </ul>
       </div>
